@@ -1,3 +1,18 @@
+<img src="pictures/Angular.png" alt="icon" width="200"/>
+
+# TodoList
+
+![](https://img.shields.io/badge/Angular-TypeScript-orange)
+
+- This project is a basic project to get familiar with Angular. It represents a dynamic To-Do list.
+
+# Demonstration
+
+- The home page is the following
+  ![](pictures/1.png)
+
+![](pictures/1.png)
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
