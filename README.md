@@ -10,8 +10,7 @@
 
 - The home page is the following
   ![](pictures/1.png)
-
-![](pictures/1.png)
+  ![](pictures/2.png)
 
 # TodoList
 
